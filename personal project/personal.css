@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    background-color: gold;
+}
+#name{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+img{
+    width: 230px;
+    height: 230px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+#day, #time, #track, a{
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 200;
+}
